@@ -1,0 +1,15 @@
+
+a {
+    background-color: rgb(53, 53, 53);
+}
+
+.card-group{padding-top: 180px;}
+.card-ola{padding-top: 197px;}
+.card-otro{padding-top: 197px;}
+.card-img {
+    display: block;
+    margin: 0 auto;
+    width: 64px;
+}
+.card-title{color: brown;}
+.text-muted{color: crimson;}
